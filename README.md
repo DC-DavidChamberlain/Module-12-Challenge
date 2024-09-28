@@ -22,7 +22,7 @@ This project is licensed under the [MIT](https://opensource.org/licenses/MIT) li
   ## Tests
   ![Test: Jest](https://img.shields.io/badge/Test-Jest-green.svg)
    ## Visuals
-  https://drive.google.com/file/d/1OAan4YpeV2NAeaBpnFvL5HVbFfU-4QSt/view?usp=sharing
+
    ## Questions
   If you have any questions, please feel free to contact me:
   - GitHub: [DC-DavidChamberlain](https://github.com/DC-DavidChamberlain)
